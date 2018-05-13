@@ -1,0 +1,6 @@
+.text-input {
+    transition: .4s ease;
+}
+.text-input:hover, .text-input:focus {
+    border-color: white;
+}

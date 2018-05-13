@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+  
+  background-image: linear-gradient(to right, #f45941, #4286f4);
+}
+button {
+  outline: none;
+}
+button:focus {
+  outline: none;
+}
